@@ -9,7 +9,6 @@ Features:
 🎨 Enjoy an attractive user interface.
 
 Technologies Used:
-
 HTML
 CSS
 JavaScript
