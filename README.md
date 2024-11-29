@@ -1,7 +1,11 @@
 # Quiz-App
 
-Welcome to the Quiz App project! 🎉 This interactive application allows users to participate in quizzes, test their knowledge, and receive instant feedback on their performance. Here's a guide to get started:
+Welcome to the Quiz App project! 🎉
+This interactive application allows users to participate in quizzes, test their knowledge, and receive instant feedback on their performance. 
 
+--- 
+
+Here's a guide to get started:
 Features:
 
 📚 Take quizzes on various subjects.
@@ -9,12 +13,15 @@ Features:
 📝 Receive instant feedback on your performance.
 🎨 Enjoy an attractive user interface.
 
+---
+
 Technologies Used:
 HTML,
 CSS,
 JavaScript
 
 How to Use:
+
 Clone this repository to your local machine.
 Open the index.html file in your web browser.
 Choose a quiz category and start answering questions.
