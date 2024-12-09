@@ -1,6 +1,7 @@
 # Quiz-App
 
 Welcome to the Quiz App project! 🎉
+
 This interactive application allows users to participate in quizzes, test their knowledge, and receive instant feedback on their performance. 
 
 --- 
@@ -16,9 +17,9 @@ Features:
 ---
 
 Technologies Used:
-HTML,
-CSS,
-JavaScript
+1. HTML
+2. CSS
+3. JavaScript
 
 How to Use:
 
