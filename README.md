@@ -32,4 +32,5 @@ Contributing:
 
 🌟 Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
 
-Thank you for using the Quiz App! 🚀 Enjoy testing your knowledge!
+Thank you for using the Quiz App! 
+🚀 Enjoy testing your knowledge!
